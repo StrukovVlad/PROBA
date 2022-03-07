@@ -4,3 +4,5 @@ def fib(n):
         print(a,end=" ")
         a,b=b,a+b
 fib(100)
+s='Ivanovich Aleks Izrailevich Minsk BGU 7 8 7 9 9 6 8'
+print(s.split())
