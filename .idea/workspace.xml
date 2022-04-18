@@ -2,9 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="511b5570-c8eb-45e4-862e-c96ff7eed717" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/домашка 'инкапсуляция'.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/домашка 'полиморфизм'.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/упражняюсь.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lock.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/potoki 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/potoki.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weather_telegram_bot/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weather_telegram_bot/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weather_telegram_bot/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weather_telegram_bot/main_weather_tg_bot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weather_telegram_bot/perebroska" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weather_telegram_bot/perebroska.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/от Бульдозера.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/упражняюсь 2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/belhard_7" beforeDir="false" afterPath="$PROJECT_DIR$/belhard_7" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/belhard_7/tasks/easy/classes/counter.py" beforeDir="false" afterPath="$PROJECT_DIR$/belhard_7/tasks/easy/classes/counter.py" afterDir="false" />
@@ -23,10 +32,7 @@
       <change beforePath="$PROJECT_DIR$/belhard_7/tasks/medium/fibonacci_generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/belhard_7/tasks/medium/fibonacci_generator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/belhard_7/tasks/medium/num_sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/belhard_7/tasks/medium/num_sum.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/belhard_7/tasks/medium/yes_no.py" beforeDir="false" afterPath="$PROJECT_DIR$/belhard_7/tasks/medium/yes_no.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/домашка 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Простой калькулятор.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/домашка № 3 часть 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/домашка функции-классы часть 2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/домашка №3.py" beforeDir="false" afterPath="$PROJECT_DIR$/домашка функции- классы.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/числа фобиначи.py" beforeDir="false" afterPath="$PROJECT_DIR$/домашка 'абстрактные классы'.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/упражняюсь.py" beforeDir="false" afterPath="$PROJECT_DIR$/упражняюсь.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,13 +40,52 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="PROBA" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/домашка 'абстрактные классы'.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/weather_telegram_bot/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="572">
-              <caret line="113" selection-start-line="113" selection-end-line="113" />
+            <state relative-caret-position="1003">
+              <caret line="62" selection-start-line="62" selection-end-line="62" />
+              <folding>
+                <element signature="e#1#16#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/weather_telegram_bot/main_weather_tg_bot.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1020">
+              <caret line="65" selection-start-line="65" selection-end-line="65" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/weather_telegram_bot/config.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/weather_telegram_bot/perebroska.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="40" lean-forward="true" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -85,19 +130,30 @@
         <option value="$PROJECT_DIR$/домашка № 3 часть 2.py" />
         <option value="$PROJECT_DIR$/example1.py" />
         <option value="$PROJECT_DIR$/belhard_7/tasks/easy/functions/arguments.py" />
-        <option value="$PROJECT_DIR$/упражняюсь.py" />
         <option value="$PROJECT_DIR$/пытаюсь удалить.py" />
         <option value="$PROJECT_DIR$/ой.py" />
         <option value="$PROJECT_DIR$/домашка 'инкапсуляция'.py" />
         <option value="$PROJECT_DIR$/домашка 'полиморфизм'.py" />
         <option value="$PROJECT_DIR$/домашка 'абстрактные классы'.py" />
+        <option value="$PROJECT_DIR$/от Бульдозера.py" />
+        <option value="$PROJECT_DIR$/упражняюсь.py" />
+        <option value="$PROJECT_DIR$/potoki.py" />
+        <option value="$PROJECT_DIR$/potoki 2.py" />
+        <option value="$PROJECT_DIR$/lock.py" />
+        <option value="$PROJECT_DIR$/упражняюсь 2.py" />
+        <option value="$PROJECT_DIR$/weather_telegram_bot/token_bot.py" />
+        <option value="$PROJECT_DIR$/weather_telegram_bot/main_weather_tg_boty.py" />
+        <option value="$PROJECT_DIR$/weather_telegram_bot/main.py" />
+        <option value="$PROJECT_DIR$/weather_telegram_bot/main_weather_tg_bot.py" />
+        <option value="$PROJECT_DIR$/weather_telegram_bot/config.py" />
+        <option value="$PROJECT_DIR$/weather_telegram_bot/perebroska.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="10" />
-    <option name="y" value="20" />
-    <option name="width" value="1260" />
+    <option name="x" value="443" />
+    <option name="y" value="-14" />
+    <option name="width" value="1001" />
     <option name="height" value="730" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -109,17 +165,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="PROBA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PROBA" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -138,7 +184,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.example1">
+  <component name="RunManager" selected="Python.main">
+    <configuration name="упражняюсь 2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PROBA" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/упражняюсь 2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="числа фобиначи" type="PythonConfigurationType" factoryName="Python">
       <module name="PROBA" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -152,69 +219,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="C:\Users\Влад\PycharmProjects\PROBA\упражняюсь.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="упражняюсь" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PROBA" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/упражняюсь.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ой" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PROBA" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ой.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="add_number" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PROBA" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/belhard_7/tasks/easy/functions" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/belhard_7/tasks/easy/functions/add_number.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -244,7 +248,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="fibonacci" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="lock" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PROBA" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -252,11 +256,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/belhard_7/tasks/easy/generators" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/belhard_7/tasks/easy/generators/fibonacci.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lock.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -265,7 +269,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="logging_decorator" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PROBA" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -273,11 +277,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/belhard_7/tasks/easy/decorators" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/weather_telegram_bot" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/belhard_7/tasks/easy/decorators/logging_decorator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/weather_telegram_bot/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main_weather_tg_bot" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PROBA" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/weather_telegram_bot" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/weather_telegram_bot/main_weather_tg_bot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="potoki 2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PROBA" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/potoki 2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -288,10 +334,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.упражняюсь" />
-        <item itemvalue="Python.add_number" />
-        <item itemvalue="Python.logging_decorator" />
-        <item itemvalue="Python.fibonacci" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.main_weather_tg_bot" />
+        <item itemvalue="Python.упражняюсь 2" />
+        <item itemvalue="Python.lock" />
+        <item itemvalue="Python.potoki 2" />
       </list>
     </recent_temporary>
   </component>
@@ -312,97 +359,45 @@
     <frame x="-8" y="-8" width="1296" height="786" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24244833" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49847096" weight="0.31671858" />
+      <window_info id="Structure" order="1" sideWeight="0.50176054" side_tool="true" weight="0.24244833" />
+      <window_info id="Favorites" order="2" sideWeight="0.50152904" side_tool="true" weight="0.24244833" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49841017" weight="0.29510704" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49761525" weight="0.17584097" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39908257" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49523053" weight="0.36238533" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5047695" side_tool="true" weight="0.3975535" />
-      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49920508" weight="0.3277592" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49920508" weight="0.32874617" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49284577" weight="0.33333334" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5023847" side_tool="true" weight="0.41896024" />
+      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49761525" weight="0.08256881" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24244833" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49847096" visible="true" weight="0.24244833" />
+      <window_info id="Structure" order="1" sideWeight="0.50176054" side_tool="true" weight="0.24244833" />
+      <window_info id="Favorites" order="2" sideWeight="0.50152904" side_tool="true" weight="0.24244833" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49841017" weight="0.29510704" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49761525" visible="true" weight="0.17737003" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39908257" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49523053" visible="true" weight="0.36238533" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5047695" side_tool="true" weight="0.3975535" />
-      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49920508" weight="0.3277592" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49920508" weight="0.32874617" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49284577" weight="0.33333334" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5023847" side_tool="true" weight="0.41896024" />
+      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49761525" weight="0.32721713" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/belhard_7/tasks/easy/generators/even_numbers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" lean-forward="true" selection-end-line="20" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/belhard_7/tasks/easy/generators/factorial.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" lean-forward="true" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/belhard_7/tasks/easy/generators/fibonacci.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="8" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/belhard_7/tasks/easy/generators/triangular_numbers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" lean-forward="true" selection-end-line="26" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/belhard_7/tasks/medium/fibonacci_generator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="3" lean-forward="true" selection-start-line="1" selection-end-line="32" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/belhard_7/tasks/medium/check_number.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="4" lean-forward="true" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/belhard_7/tasks/medium/yes_no.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/belhard_7/tasks/hard/generate_brackets.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/belhard_7/tasks/hard/heap_sort.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -416,13 +411,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="11" lean-forward="true" selection-end-line="24" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/belhard_7/tasks/easy/classes/counter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="389">
-          <caret line="34" column="19" lean-forward="true" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -519,20 +507,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ой.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/упражняюсь.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/ой.py" />
     <entry file="file://$PROJECT_DIR$/Простой калькулятор.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -556,8 +531,167 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/домашка 'абстрактные классы'.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
+        <state relative-caret-position="1921">
           <caret line="113" selection-start-line="113" selection-end-line="113" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/belhard_7/tasks/easy/classes/counter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="34" column="19" lean-forward="true" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/от Бульдозера.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python38-32/удаление lorem.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://C:/Python38-32/тест гОрули.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://C:/Python38-32/Утиная типизация.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://C:/Python38-32/хорошая схема открытия и читание файла.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://C:/Python38-32/записать barakuda.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://C:/Python38-32/е-мое.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://C:/Python38-32/y1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://C:/Python38-32/гс-3.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://C:/Python38-32/гс-2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://C:/Python38-32/ввод знака.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://C:/Python38-32/удаление 111.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/potoki.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="11" column="58" selection-start-line="11" selection-start-column="58" selection-end-line="11" selection-end-column="58" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/potoki 2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lock.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/упражняюсь.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1003">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python38-32/Lib/site-packages/requests/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://C:/Python38-32/Lib/site-packages/requests/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1261">
+          <caret line="882" column="8" selection-start-line="882" selection-start-column="8" selection-end-line="882" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/-1553436676/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22037">
+          <caret line="5836" selection-start-line="5836" selection-end-line="5836" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/упражняюсь 2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="3" selection-start-line="10" selection-end-line="28" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weather_telegram_bot/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weather_telegram_bot/token_bot.py" />
+    <entry file="file://C:/Python38-32/Lib/site-packages/aiogram/utils/executor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="393" column="23" lean-forward="true" selection-start-line="13" selection-end-line="400" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weather_telegram_bot/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1003">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
+          <folding>
+            <element signature="e#1#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weather_telegram_bot/main_weather_tg_bot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="65" selection-start-line="65" selection-end-line="65" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weather_telegram_bot/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weather_telegram_bot/perebroska.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="40" lean-forward="true" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
