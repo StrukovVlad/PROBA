@@ -2,18 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="511b5570-c8eb-45e4-862e-c96ff7eed717" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lock.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/potoki 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/potoki.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weather_telegram_bot/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weather_telegram_bot/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weather_telegram_bot/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weather_telegram_bot/main_weather_tg_bot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weather_telegram_bot/perebroska" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weather_telegram_bot/perebroska.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/от Бульдозера.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/упражняюсь 2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/belhard_7" beforeDir="false" afterPath="$PROJECT_DIR$/belhard_7" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/belhard_7/tasks/easy/classes/counter.py" beforeDir="false" afterPath="$PROJECT_DIR$/belhard_7/tasks/easy/classes/counter.py" afterDir="false" />
@@ -32,7 +20,7 @@
       <change beforePath="$PROJECT_DIR$/belhard_7/tasks/medium/fibonacci_generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/belhard_7/tasks/medium/fibonacci_generator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/belhard_7/tasks/medium/num_sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/belhard_7/tasks/medium/num_sum.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/belhard_7/tasks/medium/yes_no.py" beforeDir="false" afterPath="$PROJECT_DIR$/belhard_7/tasks/medium/yes_no.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/упражняюсь.py" beforeDir="false" afterPath="$PROJECT_DIR$/упражняюсь.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/от Бульдозера.py" beforeDir="false" afterPath="$PROJECT_DIR$/работа с базами.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,46 +34,50 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/weather_telegram_bot/main.py">
+        <entry file="file://$PROJECT_DIR$/lock.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1003">
-              <caret line="62" selection-start-line="62" selection-end-line="62" />
+            <state relative-caret-position="54">
+              <caret line="28" column="25" lean-forward="true" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
               <folding>
-                <element signature="e#1#16#0" expanded="true" />
+                <element signature="e#0#16#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/weather_telegram_bot/main_weather_tg_bot.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1020">
-              <caret line="65" selection-start-line="65" selection-end-line="65" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/.idea/PROBA.iml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/weather_telegram_bot/__init__.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/weather_telegram_bot/config.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/упражняюсь 2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/weather_telegram_bot/perebroska.py">
+        <entry file="file://$PROJECT_DIR$/упражняюсь.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="40" lean-forward="true" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="85">
+              <caret line="5" column="1" lean-forward="true" selection-end-line="56" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -145,8 +137,11 @@
         <option value="$PROJECT_DIR$/weather_telegram_bot/main_weather_tg_boty.py" />
         <option value="$PROJECT_DIR$/weather_telegram_bot/main.py" />
         <option value="$PROJECT_DIR$/weather_telegram_bot/main_weather_tg_bot.py" />
-        <option value="$PROJECT_DIR$/weather_telegram_bot/config.py" />
         <option value="$PROJECT_DIR$/weather_telegram_bot/perebroska.py" />
+        <option value="$PROJECT_DIR$/weather_telegram_bot/config.py" />
+        <option value="$PROJECT_DIR$/main_weather_token.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/config.py" />
       </list>
     </option>
   </component>
@@ -160,12 +155,32 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane" />
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="PROBA" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PROBA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PROBA" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -359,9 +374,9 @@
     <frame x="-8" y="-8" width="1296" height="786" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49847096" weight="0.31671858" />
-      <window_info id="Structure" order="1" sideWeight="0.50176054" side_tool="true" weight="0.24244833" />
-      <window_info id="Favorites" order="2" sideWeight="0.50152904" side_tool="true" weight="0.24244833" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49082568" visible="true" weight="0.3163752" />
+      <window_info id="Structure" order="1" sideWeight="0.5045872" side_tool="true" weight="0.3163752" />
+      <window_info id="Favorites" order="2" sideWeight="0.5091743" side_tool="true" weight="0.3163752" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49761525" weight="0.17584097" />
@@ -370,7 +385,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49920508" weight="0.32874617" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49284577" weight="0.33333334" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49284577" visible="true" weight="0.33333334" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5023847" side_tool="true" weight="0.41896024" />
       <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49761525" weight="0.08256881" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -398,22 +413,6 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/belhard_7/tasks/hard/heap_sort.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/belhard_7/tasks/hard/line_print.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/belhard_7/tasks/hard/merge_sort.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/belhard_7/tasks/medium/char_counter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="11" lean-forward="true" selection-end-line="24" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/belhard_7/tasks/easy/classes/phone.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-21" />
@@ -469,13 +468,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/пытаюсь удалить.py" />
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="14" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/домашка №1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -543,16 +535,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/от Бульдозера.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://C:/Python38-32/удаление lorem.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -586,16 +568,6 @@
     <entry file="file://C:/Python38-32/удаление 111.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/potoki.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="11" column="58" selection-start-line="11" selection-start-column="58" selection-end-line="11" selection-end-column="58" />
-          <folding>
-            <element signature="e#0#22#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/potoki 2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -603,23 +575,6 @@
           <folding>
             <element signature="e#0#16#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lock.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="43" selection-start-line="43" selection-end-line="43" />
-          <folding>
-            <element signature="e#0#16#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/упражняюсь.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1003">
-          <caret line="59" selection-start-line="59" selection-end-line="59" />
         </state>
       </provider>
     </entry>
@@ -640,16 +595,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/упражняюсь 2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="3" selection-start-line="10" selection-end-line="28" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/weather_telegram_bot/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/weather_telegram_bot/token_bot.py" />
     <entry file="file://C:/Python38-32/Lib/site-packages/aiogram/utils/executor.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -658,19 +603,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/weather_telegram_bot/main.py">
+    <entry file="file://$PROJECT_DIR$/weather_telegram_bot/perebroska.py" />
+    <entry file="file://$PROJECT_DIR$/weather_telegram_bot/main_weather_tg_bot.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1003">
-          <caret line="62" selection-start-line="62" selection-end-line="62" />
+        <state relative-caret-position="901">
+          <caret line="58" selection-end-line="65" />
           <folding>
-            <element signature="e#1#16#0" expanded="true" />
+            <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/weather_telegram_bot/main_weather_tg_bot.py">
+    <entry file="file://$PROJECT_DIR$/main_weather_token.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1020">
+        <state relative-caret-position="354">
           <caret line="65" selection-start-line="65" selection-end-line="65" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
@@ -678,20 +624,90 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/weather_telegram_bot/config.py">
+    <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="354">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
+          <folding>
+            <element signature="e#1#16#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/weather_telegram_bot/perebroska.py">
+    <entry file="file://$PROJECT_DIR$/weather_telegram_bot/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="57" column="38" lean-forward="true" selection-start-line="57" selection-start-column="38" selection-end-line="57" selection-end-column="38" />
+          <folding>
+            <element signature="e#1#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/работа с базами.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/potoki.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="58" selection-start-line="11" selection-start-column="58" selection-end-line="11" selection-end-column="58" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="12" column="40" lean-forward="true" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+          <caret line="12" column="14" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lock.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="28" column="25" lean-forward="true" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
           <folding>
-            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#0#16#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/PROBA.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weather_telegram_bot/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weather_telegram_bot/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/упражняюсь 2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/упражняюсь.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="1" lean-forward="true" selection-end-line="56" selection-end-column="49" />
         </state>
       </provider>
     </entry>
