@@ -60,8 +60,6 @@ class Counter:
 Модель: {}
 Год выпуска: {}
 """
-
-
 class Phone:
 
     def __init__(self, brand, model, year, name):
@@ -71,22 +69,23 @@ class Phone:
         self.name = name
 
     def receive_call(self):
-        return f' Звонит {self.name}'
+        return print(f' Звонит {self.name}')
 
     def get_info(self):
-        return (self.brand, self.model, self.year)
+        return print(self.brand, self.model, self.year)
 
     def __str__(self):
-        return print(f'Брэнд : {self.brand}'), print(f'Марка : {self.model}'), print(f'Год выпуска : {self.year}')
-
+        return print(f'Брэнд : {self.brand}\n',
+                     f'Марка : {self.model}\n',
+                     f'Год выпуска : {self.year}')
 
 brand = input('Введите марку бренда:')
 model = input('Введите марку модели :')
 year = input('Введите год выпуска :')
 name = input('Ваше имя :')
 z = Phone(brand, model, year, name)
-print(z.receive_call())
-print(z.get_info())
+z.receive_call()
+z.get_info()
 a = z.__str__()
 
 """
