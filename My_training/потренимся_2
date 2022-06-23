@@ -1,0 +1,6 @@
+def welcome(**name_parts):
+    print('Welcome, ' + name_parts['first_name'] + ' ' + name_parts['last_name'] + '!')
+
+welcome(last_name='Chekhov', first_name='Anton')
+welcome(last_name='Chekhov', first_name='Anton', age='28')
+welcome(last_name='Chekhov') # вызовет KeyError 
